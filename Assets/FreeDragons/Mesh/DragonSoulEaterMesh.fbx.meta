@@ -1,0 +1,807 @@
+fileFormatVersion: 2
+guid: f14db21b5e70e3d4ab6f0e158099a341
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Chest
+  - first:
+      1: 100002
+    second: DragonSoulEater
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: Eye_Left
+  - first:
+      1: 100008
+    second: Eye_Right
+  - first:
+      1: 100010
+    second: Feet_Left
+  - first:
+      1: 100012
+    second: Feet_Right
+  - first:
+      1: 100014
+    second: Hand_Left
+  - first:
+      1: 100016
+    second: Hand_Right
+  - first:
+      1: 100018
+    second: HandTip_Left
+  - first:
+      1: 100020
+    second: HandTip_Right
+  - first:
+      1: 100022
+    second: Head
+  - first:
+      1: 100024
+    second: Jaw
+  - first:
+      1: 100026
+    second: JawTip
+  - first:
+      1: 100028
+    second: LowerArm_Left
+  - first:
+      1: 100030
+    second: LowerArm_Right
+  - first:
+      1: 100032
+    second: LowerLeg_Left
+  - first:
+      1: 100034
+    second: LowerLeg_Right
+  - first:
+      1: 100036
+    second: Neck
+  - first:
+      1: 100038
+    second: NeckFat_Left
+  - first:
+      1: 100040
+    second: NeckFat_Right
+  - first:
+      1: 100042
+    second: ReverseLeg_Left
+  - first:
+      1: 100044
+    second: ReverseLeg_Right
+  - first:
+      1: 100046
+    second: Root_Pelvis
+  - first:
+      1: 100048
+    second: Spine
+  - first:
+      1: 100050
+    second: Tail01
+  - first:
+      1: 100052
+    second: Tail02
+  - first:
+      1: 100054
+    second: Tail03
+  - first:
+      1: 100056
+    second: TailEnd
+  - first:
+      1: 100058
+    second: Toe_Left
+  - first:
+      1: 100060
+    second: Toe_Right
+  - first:
+      1: 100062
+    second: UpperArm_Left
+  - first:
+      1: 100064
+    second: UpperArm_Right
+  - first:
+      1: 100066
+    second: UpperLeg_Left
+  - first:
+      1: 100068
+    second: UpperLeg_Right
+  - first:
+      1: 100070
+    second: UpperMouth
+  - first:
+      1: 100072
+    second: ValleyFat
+  - first:
+      1: 100074
+    second: Wing01_Left
+  - first:
+      1: 100076
+    second: Wing01_Right
+  - first:
+      1: 100078
+    second: Wing02_Left
+  - first:
+      1: 100080
+    second: Wing02_Right
+  - first:
+      1: 100082
+    second: Wing03_Left
+  - first:
+      1: 100084
+    second: Wing03_Right
+  - first:
+      1: 100086
+    second: WingHand_Left
+  - first:
+      1: 100088
+    second: WingHand_Right
+  - first:
+      1: 100090
+    second: WingIndex01_Left
+  - first:
+      1: 100092
+    second: WingIndex01_Right
+  - first:
+      1: 100094
+    second: WingIndex02_Left
+  - first:
+      1: 100096
+    second: WingIndex02_Right
+  - first:
+      1: 100098
+    second: WingIndex03_Left
+  - first:
+      1: 100100
+    second: WingIndex03_Right
+  - first:
+      1: 100102
+    second: WingMiddle01_Left
+  - first:
+      1: 100104
+    second: WingMiddle01_Right
+  - first:
+      1: 100106
+    second: WingMiddle02_Left
+  - first:
+      1: 100108
+    second: WingMiddle02_Right
+  - first:
+      1: 100110
+    second: WingMiddle03_Left
+  - first:
+      1: 100112
+    second: WingMiddle03_Right
+  - first:
+      1: 100114
+    second: WingPinky01_Left
+  - first:
+      1: 100116
+    second: WingPinky01_Right
+  - first:
+      1: 100118
+    second: WingPinky02_Left
+  - first:
+      1: 100120
+    second: WingPinky02_Right
+  - first:
+      1: 100122
+    second: WingPinky03_Left
+  - first:
+      1: 100124
+    second: WingPinky03_Right
+  - first:
+      4: 400000
+    second: Chest
+  - first:
+      4: 400002
+    second: DragonSoulEater
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: Eye_Left
+  - first:
+      4: 400008
+    second: Eye_Right
+  - first:
+      4: 400010
+    second: Feet_Left
+  - first:
+      4: 400012
+    second: Feet_Right
+  - first:
+      4: 400014
+    second: Hand_Left
+  - first:
+      4: 400016
+    second: Hand_Right
+  - first:
+      4: 400018
+    second: HandTip_Left
+  - first:
+      4: 400020
+    second: HandTip_Right
+  - first:
+      4: 400022
+    second: Head
+  - first:
+      4: 400024
+    second: Jaw
+  - first:
+      4: 400026
+    second: JawTip
+  - first:
+      4: 400028
+    second: LowerArm_Left
+  - first:
+      4: 400030
+    second: LowerArm_Right
+  - first:
+      4: 400032
+    second: LowerLeg_Left
+  - first:
+      4: 400034
+    second: LowerLeg_Right
+  - first:
+      4: 400036
+    second: Neck
+  - first:
+      4: 400038
+    second: NeckFat_Left
+  - first:
+      4: 400040
+    second: NeckFat_Right
+  - first:
+      4: 400042
+    second: ReverseLeg_Left
+  - first:
+      4: 400044
+    second: ReverseLeg_Right
+  - first:
+      4: 400046
+    second: Root_Pelvis
+  - first:
+      4: 400048
+    second: Spine
+  - first:
+      4: 400050
+    second: Tail01
+  - first:
+      4: 400052
+    second: Tail02
+  - first:
+      4: 400054
+    second: Tail03
+  - first:
+      4: 400056
+    second: TailEnd
+  - first:
+      4: 400058
+    second: Toe_Left
+  - first:
+      4: 400060
+    second: Toe_Right
+  - first:
+      4: 400062
+    second: UpperArm_Left
+  - first:
+      4: 400064
+    second: UpperArm_Right
+  - first:
+      4: 400066
+    second: UpperLeg_Left
+  - first:
+      4: 400068
+    second: UpperLeg_Right
+  - first:
+      4: 400070
+    second: UpperMouth
+  - first:
+      4: 400072
+    second: ValleyFat
+  - first:
+      4: 400074
+    second: Wing01_Left
+  - first:
+      4: 400076
+    second: Wing01_Right
+  - first:
+      4: 400078
+    second: Wing02_Left
+  - first:
+      4: 400080
+    second: Wing02_Right
+  - first:
+      4: 400082
+    second: Wing03_Left
+  - first:
+      4: 400084
+    second: Wing03_Right
+  - first:
+      4: 400086
+    second: WingHand_Left
+  - first:
+      4: 400088
+    second: WingHand_Right
+  - first:
+      4: 400090
+    second: WingIndex01_Left
+  - first:
+      4: 400092
+    second: WingIndex01_Right
+  - first:
+      4: 400094
+    second: WingIndex02_Left
+  - first:
+      4: 400096
+    second: WingIndex02_Right
+  - first:
+      4: 400098
+    second: WingIndex03_Left
+  - first:
+      4: 400100
+    second: WingIndex03_Right
+  - first:
+      4: 400102
+    second: WingMiddle01_Left
+  - first:
+      4: 400104
+    second: WingMiddle01_Right
+  - first:
+      4: 400106
+    second: WingMiddle02_Left
+  - first:
+      4: 400108
+    second: WingMiddle02_Right
+  - first:
+      4: 400110
+    second: WingMiddle03_Left
+  - first:
+      4: 400112
+    second: WingMiddle03_Right
+  - first:
+      4: 400114
+    second: WingPinky01_Left
+  - first:
+      4: 400116
+    second: WingPinky01_Right
+  - first:
+      4: 400118
+    second: WingPinky02_Left
+  - first:
+      4: 400120
+    second: WingPinky02_Right
+  - first:
+      4: 400122
+    second: WingPinky03_Left
+  - first:
+      4: 400124
+    second: WingPinky03_Right
+  - first:
+      21: 2100000
+    second: lambert1
+  - first:
+      43: 4300000
+    second: DragonSoulEater
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: DragonSoulEater
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: DragonSoulEaterMesh(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: DragonSoulEater
+      parentName: DragonSoulEaterMesh(Clone)
+      position: {x: -0, y: -226.65565, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: Root_Pelvis
+      parentName: DragonSoulEaterMesh(Clone)
+      position: {x: 0, y: 2.3169668, z: -0.39607608}
+      rotation: {x: 0.030924404, y: 0.70643026, z: 0.030924404, w: 0.70643026}
+      scale: {x: 0.010000002, y: 0.010000002, z: 0.01}
+    - name: Spine
+      parentName: Root_Pelvis
+      position: {x: -126.06061, y: -5.684342e-14, z: 1.2621775e-29}
+      rotation: {x: 0.0000000018626454, y: -0, z: -0.56954235, w: 0.82196206}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+    - name: Chest
+      parentName: Spine
+      position: {x: -96.567726, y: 5.684342e-14, z: 7.9788606e-14}
+      rotation: {x: -0.000000013286019, y: 0.000000058107858, z: 0.023772359, w: 0.9997174}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999998}
+    - name: Neck
+      parentName: Chest
+      position: {x: -70.58616, y: -5.684342e-14, z: 5.791171e-14}
+      rotation: {x: 0.0000000032615608, y: -0.000000028349803, z: -0.31374952, w: 0.94950587}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: Head
+      parentName: Neck
+      position: {x: -86.90502, y: -7.1054274e-15, z: 9.106457e-14}
+      rotation: {x: -0.000000018855582, y: 0.000000051718885, z: 0.44543177, w: 0.8953159}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: UpperMouth
+      parentName: Head
+      position: {x: -95.67406, y: -6.0931573, z: 1.1892576e-13}
+      rotation: {x: 0.040904235, y: -0.70592284, z: 0.040904243, w: 0.70592266}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Jaw
+      parentName: Head
+      position: {x: -41.192364, y: -23.123783, z: 1.4613014e-13}
+      rotation: {x: -0.000000004728735, y: -0.0000001179196, z: 0.2796355, w: 0.96010625}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: JawTip
+      parentName: Jaw
+      position: {x: -57.773373, y: 35.09967, z: 2.2860554e-14}
+      rotation: {x: -0.15812865, y: -0.6891991, z: -0.1581286, w: 0.68919903}
+      scale: {x: 1, y: 0.99999994, z: 0.9999995}
+    - name: Eye_Left
+      parentName: Head
+      position: {x: -86.658936, y: 9.583786, z: -31.675535}
+      rotation: {x: 0.040904235, y: -0.70592284, z: 0.040904243, w: 0.70592266}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Eye_Right
+      parentName: Head
+      position: {x: -86.65876, y: 9.584249, z: 31.6755}
+      rotation: {x: 0.70592266, y: 0.04090427, z: 0.7059228, w: -0.04090423}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: NeckFat_Left
+      parentName: Neck
+      position: {x: 30.930386, y: -124.621895, z: -59.21948}
+      rotation: {x: 0.16365398, y: -0.13000475, z: 0.7657143, w: 0.6082744}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999994}
+    - name: NeckFat_Right
+      parentName: Neck
+      position: {x: 30.930405, y: -124.621796, z: 59.2195}
+      rotation: {x: -0.1563565, y: 0.1241983, z: 0.76726127, w: 0.6094569}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: UpperArm_Left
+      parentName: Chest
+      position: {x: 42.504147, y: -103.58871, z: -109.25764}
+      rotation: {x: 0.07724051, y: -0.03868322, z: 0.8370849, w: 0.54020953}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000004}
+    - name: LowerArm_Left
+      parentName: UpperArm_Left
+      position: {x: -100.854774, y: 1.4210855e-14, z: 0}
+      rotation: {x: 0.0043932046, y: -0.012683013, z: -0.3477285, w: 0.9374992}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1}
+    - name: Hand_Left
+      parentName: LowerArm_Left
+      position: {x: -55.17697, y: -1.4210855e-14, z: 2.842171e-14}
+      rotation: {x: -0.10309181, y: 0.014297936, z: -0.3595614, w: 0.9272989}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: HandTip_Left
+      parentName: Hand_Left
+      position: {x: -30.65149, y: 2.1316282e-14, z: 0}
+      rotation: {x: 0.032718986, y: 0.005674572, z: -0.07325589, w: 0.9967602}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000004}
+    - name: UpperArm_Right
+      parentName: Chest
+      position: {x: 42.504204, y: -103.58888, z: 109.258}
+      rotation: {x: -0.07724145, y: 0.03868081, z: 0.8370852, w: 0.5402093}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: LowerArm_Right
+      parentName: UpperArm_Right
+      position: {x: -100.854546, y: -4.2632564e-14, z: 0}
+      rotation: {x: -0.004394464, y: 0.012686389, z: -0.3477293, w: 0.93749887}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: Hand_Right
+      parentName: LowerArm_Right
+      position: {x: -55.17705, y: 7.1054274e-14, z: 0}
+      rotation: {x: 0.035611887, y: 0.008973204, z: -0.35970142, w: 0.9323445}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: HandTip_Right
+      parentName: Hand_Right
+      position: {x: -30.650867, y: -4.2632564e-14, z: -1.4210855e-14}
+      rotation: {x: -0.024032345, y: -0.03270422, z: -0.06877083, w: 0.9968067}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: Wing01_Left
+      parentName: Spine
+      position: {x: -109.476555, y: 76.79703, z: -86.85792}
+      rotation: {x: 0.13772342, y: -0.7248601, z: -0.060417756, w: 0.67227966}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Wing02_Left
+      parentName: Wing01_Left
+      position: {x: -67.82307, y: -1.4210855e-14, z: -2.842171e-14}
+      rotation: {x: 0.117018595, y: 0.08817537, z: 0.11379874, w: 0.98264015}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000002}
+    - name: Wing03_Left
+      parentName: Wing02_Left
+      position: {x: -63.67176, y: 1.4210855e-14, z: -2.1316282e-14}
+      rotation: {x: -0.13387491, y: -0.008380038, z: 0.022834314, w: 0.99069977}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: WingHand_Left
+      parentName: Wing03_Left
+      position: {x: -128.98157, y: -1.1368684e-13, z: 5.684342e-14}
+      rotation: {x: -0.37155586, y: 0.18536939, z: -0.31386504, w: 0.8538579}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: WingIndex01_Left
+      parentName: WingHand_Left
+      position: {x: -112.76463, y: -9.404898, z: -30.335297}
+      rotation: {x: -0.11206294, y: -0.10996848, z: 0.022800561, w: 0.98733425}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: WingIndex02_Left
+      parentName: WingIndex01_Left
+      position: {x: -86.91304, y: 23.679913, z: -36.789227}
+      rotation: {x: 0.23195072, y: -0.09225979, z: -0.18808495, w: 0.9499006}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: WingIndex03_Left
+      parentName: WingIndex02_Left
+      position: {x: -75.364044, y: -25.96745, z: -15.29148}
+      rotation: {x: 0.07642023, y: -0.16267958, z: 0.13687994, w: 0.97414535}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WingMiddle01_Left
+      parentName: WingHand_Left
+      position: {x: -96.94168, y: 1.7039864, z: -55.12023}
+      rotation: {x: 0.27277675, y: -0.24663731, z: 0.10095068, w: 0.9244305}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: WingMiddle02_Left
+      parentName: WingMiddle01_Left
+      position: {x: -82.14727, y: -1.1368684e-13, z: 0}
+      rotation: {x: -0.57035434, y: -0.03608217, z: 0.009272227, w: 0.82055354}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000007}
+    - name: WingMiddle03_Left
+      parentName: WingMiddle02_Left
+      position: {x: -62.43847, y: 1.563194e-13, z: 1.1368684e-13}
+      rotation: {x: 0.009876687, y: -0.23722753, z: 0.14896433, w: 0.95991415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WingPinky01_Left
+      parentName: WingHand_Left
+      position: {x: -79.30251, y: 5.9691663, z: -69.80718}
+      rotation: {x: 0.26782128, y: -0.29393518, z: 0.13063225, w: 0.90819}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000006}
+    - name: WingPinky02_Left
+      parentName: WingPinky01_Left
+      position: {x: -80.80325, y: 0, z: -2.842171e-14}
+      rotation: {x: -0.45278257, y: -0.08504666, z: 0.00035609296, w: 0.88755554}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: WingPinky03_Left
+      parentName: WingPinky02_Left
+      position: {x: -37.346996, y: -3.7557201, z: 6.947087}
+      rotation: {x: 0.02576833, y: -0.04676238, z: 0.009967584, w: 0.99852395}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: ValleyFat
+      parentName: Spine
+      position: {x: 63.99645, y: -125.222755, z: 3.9503736e-14}
+      rotation: {x: 0.000000009829815, y: 0.00000001751157, z: 0.8466028, w: 0.53222525}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: Wing01_Right
+      parentName: Spine
+      position: {x: -109.47647, y: 76.79689, z: 86.8579}
+      rotation: {x: -0.13772297, y: 0.72485995, z: -0.060418308, w: 0.67227983}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: Wing02_Right
+      parentName: Wing01_Right
+      position: {x: -67.82297, y: -4.2632564e-14, z: 2.842171e-14}
+      rotation: {x: -0.11701888, y: -0.08817455, z: 0.11379867, w: 0.98264015}
+      scale: {x: 1.0000001, y: 1, z: 1.0000005}
+    - name: Wing03_Right
+      parentName: Wing02_Right
+      position: {x: -63.671337, y: 5.684342e-14, z: 7.1054274e-15}
+      rotation: {x: 0.1338756, y: 0.0083788615, z: 0.02283466, w: 0.99069965}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: WingHand_Right
+      parentName: Wing03_Right
+      position: {x: -128.98221, y: -5.684342e-14, z: 8.526513e-14}
+      rotation: {x: 0.37772056, y: -0.2190879, z: -0.31791303, w: 0.84158134}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: WingIndex01_Right
+      parentName: WingHand_Right
+      position: {x: -113.9381, y: -3.2403028, z: 47.06019}
+      rotation: {x: -0.10360235, y: -0.30238485, z: 0.036152516, w: -0.946849}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999998}
+    - name: WingIndex02_Right
+      parentName: WingIndex01_Right
+      position: {x: -80.64433, y: 5.4374785, z: -20.125755}
+      rotation: {x: -0.42406872, y: -0.063276485, z: -0.08503212, w: 0.8994062}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: WingIndex03_Right
+      parentName: WingIndex02_Right
+      position: {x: -74.981834, y: -2.4238782, z: -2.4995291}
+      rotation: {x: 0.35325757, y: 0.25713417, z: 0.16535993, w: 0.8841647}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WingMiddle01_Right
+      parentName: WingHand_Right
+      position: {x: -93.681145, y: 10.631142, z: 57.248592}
+      rotation: {x: 0.27678367, y: -0.24913861, z: -0.08785024, w: -0.9239065}
+      scale: {x: 0.9999994, y: 0.9999996, z: 1.0000004}
+    - name: WingMiddle02_Right
+      parentName: WingMiddle01_Right
+      position: {x: -81.109116, y: -4.367067, z: 0.25528795}
+      rotation: {x: -0.035430767, y: -0.020902352, z: -0.012511071, w: 0.9990752}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: WingMiddle03_Right
+      parentName: WingMiddle02_Right
+      position: {x: -59.836937, y: -8.031987, z: 5.0753827}
+      rotation: {x: 0.20364, y: 0.21930991, z: -0.018251846, w: 0.953992}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WingPinky01_Right
+      parentName: WingHand_Right
+      position: {x: -77.04128, y: 14.535965, z: 74.39737}
+      rotation: {x: -0.88921314, y: -0.009229044, z: 0.105956845, w: 0.44495845}
+      scale: {x: 0.9999992, y: 1, z: 0.9999998}
+    - name: WingPinky02_Right
+      parentName: WingPinky01_Right
+      position: {x: -60.879173, y: -35.732304, z: -10.194696}
+      rotation: {x: -0.6886659, y: -0.0017341151, z: -0.06718855, w: -0.721957}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: WingPinky03_Right
+      parentName: WingPinky02_Right
+      position: {x: -35.481777, y: -2.5989552, z: 19.48109}
+      rotation: {x: 0.0066086343, y: -0.014593648, z: 0.10905433, w: 0.99390674}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999997}
+    - name: UpperLeg_Left
+      parentName: Root_Pelvis
+      position: {x: -46.670673, y: -78.78503, z: -120.68093}
+      rotation: {x: 0.047302336, y: -0.032357424, z: 0.7521405, w: 0.65650606}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: LowerLeg_Left
+      parentName: UpperLeg_Left
+      position: {x: -79.99801, y: 4.2632564e-14, z: -2.842171e-14}
+      rotation: {x: 0.05580573, y: 0.057175994, z: 0.5225162, w: 0.84887785}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: ReverseLeg_Left
+      parentName: LowerLeg_Left
+      position: {x: -58.832855, y: 7.1054274e-14, z: -4.2632564e-14}
+      rotation: {x: -0.02864019, y: -0.07014826, z: -0.8037121, w: 0.5901745}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: Feet_Left
+      parentName: ReverseLeg_Left
+      position: {x: -63.240303, y: 1.4210855e-14, z: 2.842171e-14}
+      rotation: {x: -0.10551178, y: -0.066310346, z: -0.44237643, w: 0.8881292}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000004}
+    - name: Toe_Left
+      parentName: Feet_Left
+      position: {x: -28.971565, y: 6.217249e-15, z: 0}
+      rotation: {x: 0.05798879, y: 0.054054447, z: -0.05214642, w: 0.9954879}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000005}
+    - name: UpperLeg_Right
+      parentName: Root_Pelvis
+      position: {x: -46.670647, y: -78.78491, z: 120.681}
+      rotation: {x: -0.047304343, y: 0.03235236, z: 0.7521424, w: 0.656504}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: LowerLeg_Right
+      parentName: UpperLeg_Right
+      position: {x: -79.998146, y: -1.4210855e-14, z: -2.842171e-14}
+      rotation: {x: -0.055809613, y: -0.057179846, z: 0.5225133, w: 0.8488791}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ReverseLeg_Right
+      parentName: LowerLeg_Right
+      position: {x: -58.832783, y: -4.2632564e-14, z: -2.842171e-14}
+      rotation: {x: 0.028644532, y: 0.07015993, z: -0.8037129, w: 0.5901718}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000002}
+    - name: Feet_Right
+      parentName: ReverseLeg_Right
+      position: {x: -63.24065, y: 9.947598e-14, z: -5.684342e-14}
+      rotation: {x: 0.06405672, y: 0.10853372, z: -0.43764013, w: 0.89027435}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Toe_Right
+      parentName: Feet_Right
+      position: {x: -28.97108, y: 2.220446e-14, z: 0}
+      rotation: {x: -0.03155258, y: -0.019106366, z: -0.053771097, w: 0.9978718}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+    - name: Tail01
+      parentName: Root_Pelvis
+      position: {x: 67.266884, y: -74.62644, z: 6.2138993e-15}
+      rotation: {x: -0.33859742, y: -0.9409314, z: -0, w: 0}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Tail02
+      parentName: Tail01
+      position: {x: -116.23379, y: 0, z: 5.1222806e-15}
+      rotation: {x: 0.000000018429356, y: 0.000000056714562, z: -0.12814783, w: 0.99175507}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Tail03
+      parentName: Tail02
+      position: {x: -113.724525, y: -2.842171e-14, z: -1.9661412e-14}
+      rotation: {x: 0.0000000013118697, y: -0.000000030038514, z: -0.1302264, w: 0.99148434}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: TailEnd
+      parentName: Tail03
+      position: {x: -132.38406, y: 2.842171e-14, z: -2.5570412e-14}
+      rotation: {x: 5.5749794e-10, y: -0.000000029855272, z: -0.042566825, w: 0.9990936}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
